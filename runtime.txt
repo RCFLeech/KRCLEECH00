@@ -1,1 +1,1 @@
-python-3.9.2
+pyrogram==1.4.16
